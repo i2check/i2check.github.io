@@ -1,4 +1,4 @@
-const appConfig = {
+const baseConfig = {
   weddingDay: "Saturday",
   weddingTime: "19.00 - 21.00",
   weddingDate: "Feb 22, 2020",
@@ -46,6 +46,7 @@ const lang = {
 };
 
 export default {
-  ...appConfig,
+  ...baseConfig,
   lang
 };
+
