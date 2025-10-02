@@ -1,4 +1,4 @@
-<h1 align="center">NextJS Wedding Invitation Template</h1>
+/** <h1 align="center">NextJS Wedding Invitation Template</h1>
 
 ### Features
 
@@ -22,3 +22,4 @@ https://wedding-invite-demo.wzulfikar.now.sh
 **Screenshot:**
 
 ![screenshot.png](screenshot.png)
+**/
